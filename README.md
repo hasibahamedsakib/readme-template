@@ -127,11 +127,11 @@ addd
 
 ### image
 
-![alt img text](./image/IMG20201110082641.jpg)
+![alt img text](./image/astro-mona.webp)
 
 ---
 
-<img src="./image/IMG20201110082641.jpg" title ="Profile image" width="400px" />
+<img src="./image/astro-mona.webp" title ="Profile image" width="400px" />
 
 ---
 
